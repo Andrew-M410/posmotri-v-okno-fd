@@ -274,6 +274,10 @@ ol {
   outline: 1px solid #fff;
 }
 
+.content__card-link_current {
+  background-color: #545050;
+}
+
 .content__video-card-title {
   max-width: 200px;
   overflow: hidden;
